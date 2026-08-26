@@ -1,10 +1,10 @@
 *💫 Acerca de Mi:
 <br>
-                                    👋 ¡Hola! Soy Alexis
-💻 Ingeniero de Software | 🤖 Especializado en Inteligencia Artificial
-Soy apasionado por la tecnología y el desarrollo de soluciones digitales que resuelvan problemas reales.
-🚀 Me interesa trabajar con:
-* 🌐 Desarrollo Web
+                                    👋 ¡Hola! Soy Alexis <br>
+💻 Ingeniero de Software | 🤖 Especializado en Inteligencia Artificial <br>
+Soy apasionado por la tecnología y el desarrollo de soluciones digitales que resuelvan problemas reales. <br>
+🚀 Me interesa trabajar con: 
+* 🌐 Desarrollo Web 
 * 🤖 Inteligencia Artificial
 * 📱 Desarrollo de Software
 * 🗄️ Bases de Datos

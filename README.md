@@ -1,22 +1,14 @@
 <div align="center">
-
-  <p>👀 Visitor Count</p>
-  
-  <img src="https://profile-counter.glitch.me/fernandezmontesalexis-cloud/count.svg"/>
-
-  <br/><br/>
-
   <img src="https://github-readme-stats.vercel.app/api?username=fernandezmontesalexis-cloud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandezmontesalexis-cloud&theme=tokyonight&hide_border=true&layout=compact"/>
-
   <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandezmontesalexis-cloud&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
 
 </div>
 
-*💫 Acerca de:
+*💫 Acerca de mi:
                                     👋 ¡Hola! Soy Alexis
 💻 Ingeniero de Software | 🤖 Especializado en Inteligencia Artificial
 Soy apasionado por la tecnología y el desarrollo de soluciones digitales que resuelvan problemas reales.

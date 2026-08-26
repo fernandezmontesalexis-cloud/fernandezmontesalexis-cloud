@@ -1,5 +1,19 @@
 # 💫 About Me:
-                                    👋 ¡Hola! Soy Alexis<br><br> 💻 Ingeniero de Software | 🤖 Especializado en Inteligencia Artificial<br><br>Soy apasionado por la tecnología y el desarrollo de soluciones digitales que resuelvan problemas reales.<br><br>🚀 Me interesa trabajar con:<br><br>* 🌐 Desarrollo Web<br>* 🤖 Inteligencia Artificial<br>* 📱 Desarrollo de Software<br>* 🗄️ Bases de Datos<br>* ⚙️ Automatización de Procesos<br>* 📊 Análisis de Datos<br><br>Actualmente me encuentro fortaleciendo mis habilidades mediante proyectos prácticos y el aprendizaje continuo de nuevas tecnologías.<br><br>> 💡 "La tecnología no solo consiste en escribir código, sino en crear soluciones que generen impacto."*<br><br>🚀 Siempre aprendiendo, creando e innovando.<br>
+                                    👋 ¡Hola! Soy Alexis
+💻 Ingeniero de Software | 🤖 Especializado en Inteligencia Artificial
+Soy apasionado por la tecnología y el desarrollo de soluciones digitales que resuelvan problemas reales.
+🚀 Me interesa trabajar con:
+* 🌐 Desarrollo Web
+* 🤖 Inteligencia Artificial
+* 📱 Desarrollo de Software
+* 🗄️ Bases de Datos
+* ⚙️ Automatización de Procesos
+* 📊 Análisis de Datos
+
+Actualmente me encuentro fortaleciendo mis habilidades mediante proyectos prácticos y el aprendizaje continuo de nuevas tecnologías.
+
+💡 "La tecnología no solo consiste en escribir código, sino en crear soluciones que generen impacto."
+ >🚀 Siempre aprendiendo, creando e innovando.
 
 
 ## 🌐 Socials:

@@ -1,4 +1,5 @@
 *💫 Acerca de Mi:
+<br>
                                     👋 ¡Hola! Soy Alexis
 💻 Ingeniero de Software | 🤖 Especializado en Inteligencia Artificial
 Soy apasionado por la tecnología y el desarrollo de soluciones digitales que resuelvan problemas reales.
